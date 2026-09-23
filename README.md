@@ -1,3 +1,11 @@
+# Alternative EchoServer-Variante mit GUI
+
+Dieser Branch enthält den Java-Swing-Server **Echo_Server_II.java** und den Mini-Testclient **Mini_Testclient.java** im Ordner [gui](gui/). Dort steht auch die [Anleitung zum Kompilieren und Starten](gui/README.md).
+
+Die unten beschriebene Konsolenvariante bleibt zusätzlich im Repository erhalten.
+
+---
+
 # TCP-Testserver für Java 8
 
 Eigenständiges Konsolenprogramm ohne Zusatzbibliotheken. Verzögertes Echo oder periodisches Senden an verbundene TCP-Clients. Port, Zeit, Text und Zeitstempel sind beim Start wählbar. Mehrere Clients werden unabhängig bedient.
